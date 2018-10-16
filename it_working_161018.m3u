@@ -1,0 +1,355 @@
+﻿#EXTM3U
+#EXTINF:-1,IT: Rai 1 HD
+http://ipsatpro.com:8080/live/farouk/12345/693.ts
+#EXTINF:-1,IT: Rai 2 HD
+http://ipsatpro.com:8080/live/farouk/12345/692.ts
+#EXTINF:-1,IT: Rai 3 HD
+http://ipsatpro.com:8080/live/farouk/12345/691.ts
+#EXTINF:-1,IT: Rai 4 HD
+http://ipsatpro.com:8080/live/farouk/12345/690.ts
+#EXTINF:-1,IT: Rai 5 HD
+http://ipsatpro.com:8080/live/farouk/12345/563.ts
+#EXTINF:-1,IT: Rai yoyo
+http://ipsatpro.com:8080/live/farouk/12345/553.ts
+#EXTINF:-1,IT: Rai Gulp
+http://ipsatpro.com:8080/live/farouk/12345/552.ts
+#EXTINF:-1,IT: Rai Movie
+http://ipsatpro.com:8080/live/farouk/12345/584.ts
+#EXTINF:-1,IT: Rai Premium
+http://ipsatpro.com:8080/live/farouk/12345/583.ts
+#EXTINF:-1,IT: Rai News 24
+http://ipsatpro.com:8080/live/farouk/12345/689.ts
+#EXTINF:-1,IT: Rete 4
+http://ipsatpro.com:8080/live/farouk/12345/1848.ts
+#EXTINF:-1,IT: RSI La1 HD
+http://ipsatpro.com:8080/live/farouk/12345/688.ts
+#EXTINF:-1,IT: RSI La2 HD
+http://ipsatpro.com:8080/live/farouk/12345/687.ts
+#EXTINF:-1,IT: Sky Arte
+http://ipsatpro.com:8080/live/farouk/12345/1873.ts
+#EXTINF:-1,IT: Telearena
+http://ipsatpro.com:8080/live/farouk/12345/561.ts
+#EXTINF:-1,IT: Telepavia
+http://ipsatpro.com:8080/live/farouk/12345/1843.ts
+#EXTINF:-1,IT: Trentino TV
+http://ipsatpro.com:8080/live/farouk/12345/1842.ts
+#EXTINF:-1,IT: Comedy Central
+http://ipsatpro.com:8080/live/farouk/12345/1869.ts
+#EXTINF:-1,IT: Canale 10
+http://ipsatpro.com:8080/live/farouk/12345/565.ts
+#EXTINF:-1,IT: TG2000
+http://ipsatpro.com:8080/live/farouk/12345/564.ts
+#EXTINF:-1,IT: Orler
+http://ipsatpro.com:8080/live/farouk/12345/1871.ts
+#EXTINF:-1,IT: Spike
+http://ipsatpro.com:8080/live/farouk/12345/1870.ts
+#EXTINF:-1,IT: Aslive3
+http://ipsatpro.com:8080/live/farouk/12345/555.ts
+#EXTINF:-1,IT: videocalabria
+http://ipsatpro.com:8080/live/farouk/12345/569.ts
+#EXTINF:-1,IT: juwelo
+http://ipsatpro.com:8080/live/farouk/12345/1845.ts
+#EXTINF:-1,IT: Carina tv
+http://ipsatpro.com:8080/live/farouk/12345/1841.ts
+#EXTINF:-1,IT: Gambero Rosso HD
+http://ipsatpro.com:8080/live/farouk/12345/1844.ts
+#EXTINF:-1,IT: Canale 7
+http://ipsatpro.com:8080/live/farouk/12345/1846.ts
+#EXTINF:-1,IT: TVM 1 Dvr
+http://ipsatpro.com:8080/live/farouk/12345/571.ts
+#EXTINF:-1,IT: TVM 2 Dvr
+http://ipsatpro.com:8080/live/farouk/12345/570.ts
+#EXTINF:-1,IT: Italia 1 HD
+http://ipsatpro.com:8080/live/farouk/12345/685.ts
+#EXTINF:-1,IT: Canale 5 HD
+http://ipsatpro.com:8080/live/farouk/12345/686.ts
+#EXTINF:-1,IT: Real Time
+http://ipsatpro.com:8080/live/farouk/12345/684.ts
+#EXTINF:-1,IT: Dmax
+http://ipsatpro.com:8080/live/farouk/12345/657.ts
+#EXTINF:-1,IT: Telerama
+http://ipsatpro.com:8080/live/farouk/12345/585.ts
+#EXTINF:-1,IT: La 5
+http://ipsatpro.com:8080/live/farouk/12345/556.ts
+#EXTINF:-1,IT: La7
+http://ipsatpro.com:8080/live/farouk/12345/683.ts
+#EXTINF:-1,---------- Cinma ----------
+http://ipsatpro.com:8080/live/farouk/12345/682.ts
+#EXTINF:-1,IT: Sky Cinema 3D HD
+http://ipsatpro.com:8080/live/farouk/12345/607.ts
+#EXTINF:-1,IT: Sky Cinema Hits HD
+http://ipsatpro.com:8080/live/farouk/12345/675.ts
+#EXTINF:-1,IT: Sky Cinema Cult HD
+http://ipsatpro.com:8080/live/farouk/12345/672.ts
+#EXTINF:-1,IT: Sky Cinema Max HD
+http://ipsatpro.com:8080/live/farouk/12345/677.ts
+#EXTINF:-1,IT: Sky Cinema +24 HD
+http://ipsatpro.com:8080/live/farouk/12345/679.ts
+#EXTINF:-1,IT: Sky Cinema Uno HD
+http://ipsatpro.com:8080/live/farouk/12345/681.ts
+#EXTINF:-1,IT: Sky Cinema Uno +1 HD
+http://ipsatpro.com:8080/live/farouk/12345/680.ts
+#EXTINF:-1,IT: Sky Cinema Family HD
+http://ipsatpro.com:8080/live/farouk/12345/674.ts
+#EXTINF:-1,IT: Sky Cinema Family +1 HD
+http://ipsatpro.com:8080/live/farouk/12345/673.ts
+#EXTINF:-1,IT: Sky Cinema Passion HD
+http://ipsatpro.com:8080/live/farouk/12345/678.ts
+#EXTINF:-1,IT: Sky Cinema Comedy HD
+http://ipsatpro.com:8080/live/farouk/12345/671.ts
+#EXTINF:-1,IT: Sky Cinema Classic HD
+http://ipsatpro.com:8080/live/farouk/12345/670.ts
+#EXTINF:-1,------ Intrattenimento ----
+http://ipsatpro.com:8080/live/farouk/12345/669.ts
+#EXTINF:-1,IT: Fm italia
+http://ipsatpro.com:8080/live/farouk/12345/663.ts
+#EXTINF:-1,IT: Mtv Music
+http://ipsatpro.com:8080/live/farouk/12345/668.ts
+#EXTINF:-1,IT: Giallo
+http://ipsatpro.com:8080/live/farouk/12345/1850.ts
+#EXTINF:-1,IT: Cielo
+http://ipsatpro.com:8080/live/farouk/12345/658.ts
+#EXTINF:-1,IT: 20 Mediaset
+http://ipsatpro.com:8080/live/farouk/12345/664.ts
+#EXTINF:-1,IT: Iris
+http://ipsatpro.com:8080/live/farouk/12345/676.ts
+#EXTINF:-1,IT: Alice HD
+http://ipsatpro.com:8080/live/farouk/12345/665.ts
+#EXTINF:-1,IT: Sat 2000
+http://ipsatpro.com:8080/live/farouk/12345/662.ts
+#EXTINF:-1,IT: Onda tv
+http://ipsatpro.com:8080/live/farouk/12345/1849.ts
+#EXTINF:-1,IT: TV 8
+http://ipsatpro.com:8080/live/farouk/12345/1851.ts
+#EXTINF:-1,IT: Paramount
+http://ipsatpro.com:8080/live/farouk/12345/1852.ts
+#EXTINF:-1,IT: Italian Fishing Tv
+http://ipsatpro.com:8080/live/farouk/12345/1853.ts
+#EXTINF:-1,IT: DeeJay TV NOVE
+http://ipsatpro.com:8080/live/farouk/12345/1854.ts
+#EXTINF:-1,IT: Classica HD
+http://ipsatpro.com:8080/live/farouk/12345/1856.ts
+#EXTINF:-1,IT: Marco Polo
+http://ipsatpro.com:8080/live/farouk/12345/1855.ts
+#EXTINF:-1,IT: Antenna Tre
+http://ipsatpro.com:8080/live/farouk/12345/1868.ts
+#EXTINF:-1,IT: Sky Top Crime
+http://ipsatpro.com:8080/live/farouk/12345/559.ts
+#EXTINF:-1,IT: Sky Sienatv
+http://ipsatpro.com:8080/live/farouk/12345/666.ts
+#EXTINF:-1,IT: Sky Uno HD
+http://ipsatpro.com:8080/live/farouk/12345/667.ts
+#EXTINF:-1,IT: Sky Uno +1 HD
+http://ipsatpro.com:8080/live/farouk/12345/605.ts
+#EXTINF:-1,IT: Sky Focus
+http://ipsatpro.com:8080/live/farouk/12345/660.ts
+#EXTINF:-1,IT: Sky Mediaset Extra
+http://ipsatpro.com:8080/live/farouk/12345/603.ts
+#EXTINF:-1,IT: Sky Mediaset Italia 2
+http://ipsatpro.com:8080/live/farouk/12345/661.ts
+#EXTINF:-1,IT: Sky Food Network
+http://ipsatpro.com:8080/live/farouk/12345/653.ts
+#EXTINF:-1,IT: Sky Atlantic HD
+http://ipsatpro.com:8080/live/farouk/12345/1874.ts
+#EXTINF:-1,IT: Sky Atlantic +1 HD
+http://ipsatpro.com:8080/live/farouk/12345/654.ts
+#EXTINF:-1,IT: Sky Fox Animation HD
+http://ipsatpro.com:8080/live/farouk/12345/1865.ts
+#EXTINF:-1,IT: Sky Fox Comedy HD
+http://ipsatpro.com:8080/live/farouk/12345/1864.ts
+#EXTINF:-1,IT: Sky Fox Crime HD
+http://ipsatpro.com:8080/live/farouk/12345/1863.ts
+#EXTINF:-1,IT: Sky Fox Life HD
+http://ipsatpro.com:8080/live/farouk/12345/1862.ts
+#EXTINF:-1,IT: Sky Fox HD
+http://ipsatpro.com:8080/live/farouk/12345/1861.ts
+#EXTINF:-1,IT: Sky Fox +1 HD
+http://ipsatpro.com:8080/live/farouk/12345/606.ts
+#EXTINF:-1,---------- sport ----------
+http://ipsatpro.com:8080/live/farouk/12345/656.ts
+#EXTINF:-1,IT: Sky Sport Serie A HD
+http://ipsatpro.com:8080/live/farouk/12345/643.ts
+#EXTINF:-1,IT: Sky Sport Football HD
+http://ipsatpro.com:8080/live/farouk/12345/642.ts
+#EXTINF:-1,IT: Sky Sport Arena HD
+http://ipsatpro.com:8080/live/farouk/12345/641.ts
+#EXTINF:-1,IT: Sky Sport Golf HD
+http://ipsatpro.com:8080/live/farouk/12345/640.ts
+#EXTINF:-1,IT: Sky Sport NBA HD
+http://ipsatpro.com:8080/live/farouk/12345/650.ts
+#EXTINF:-1,IT: Sky Sport Uno HD
+http://ipsatpro.com:8080/live/farouk/12345/655.ts
+#EXTINF:-1,IT: Sky Sport 24 HD
+http://ipsatpro.com:8080/live/farouk/12345/652.ts
+#EXTINF:-1,IT: Sky Sport F1 HD
+http://ipsatpro.com:8080/live/farouk/12345/651.ts
+#EXTINF:-1,IT: Sky Moto GP HD
+http://ipsatpro.com:8080/live/farouk/12345/646.ts
+#EXTINF:-1,IT: Super Tennis HD
+http://ipsatpro.com:8080/live/farouk/12345/645.ts
+#EXTINF:-1,IT: Rai Sport 1
+http://ipsatpro.com:8080/live/farouk/12345/639.ts
+#EXTINF:-1,IT: Rai Sport 2
+http://ipsatpro.com:8080/live/farouk/12345/560.ts
+#EXTINF:-1,IT: SportTitalia
+http://ipsatpro.com:8080/live/farouk/12345/638.ts
+#EXTINF:-1,IT: Tele Venezia
+http://ipsatpro.com:8080/live/farouk/12345/1866.ts
+#EXTINF:-1,IT: TSN Sport
+http://ipsatpro.com:8080/live/farouk/12345/1840.ts
+#EXTINF:-1,IT: Automoto Tv
+http://ipsatpro.com:8080/live/farouk/12345/615.ts
+#EXTINF:-1,IT: Milan Channel
+http://ipsatpro.com:8080/live/farouk/12345/1860.ts
+#EXTINF:-1,IT: Sky Roma Channel
+http://ipsatpro.com:8080/live/farouk/12345/636.ts
+#EXTINF:-1,IT: Sky Juventus Channel
+http://ipsatpro.com:8080/live/farouk/12345/637.ts
+#EXTINF:-1,IT: Lazio Channel HD
+http://ipsatpro.com:8080/live/farouk/12345/562.ts
+#EXTINF:-1,IT: Dazn 1 (at game time)
+http://ipsatpro.com:8080/live/farouk/12345/1902.ts
+#EXTINF:-1,IT: Dazn 2 (at game time)
+http://ipsatpro.com:8080/live/farouk/12345/1903.ts
+#EXTINF:-1,IT: Dazn 3 (at game time)
+http://ipsatpro.com:8080/live/farouk/12345/1904.ts
+#EXTINF:-1,IT: Dazn 4 (at game time)
+http://ipsatpro.com:8080/live/farouk/12345/1905.ts
+#EXTINF:-1,IT: Dazn 5 (at game time)
+http://ipsatpro.com:8080/live/farouk/12345/1906.ts
+#EXTINF:-1,IT: Dazn 6 (at game time)
+http://ipsatpro.com:8080/live/farouk/12345/1907.ts
+#EXTINF:-1,IT: Dazn 7 (at game time)
+http://ipsatpro.com:8080/live/farouk/12345/1908.ts
+#EXTINF:-1,IT: Dazn 8 (at game time)
+http://ipsatpro.com:8080/live/farouk/12345/1909.ts
+#EXTINF:-1,IT: Dazn 9 (at game time)
+http://ipsatpro.com:8080/live/farouk/12345/1910.ts
+#EXTINF:-1,IT: Dazn 10 (at game time)
+http://ipsatpro.com:8080/live/farouk/12345/1911.ts
+#EXTINF:-1,IT: Dazn 11 (at game time)
+http://ipsatpro.com:8080/live/farouk/12345/1912.ts
+#EXTINF:-1,IT: Dazn 12 (at game time)
+http://ipsatpro.com:8080/live/farouk/12345/1913.ts
+#EXTINF:-1,---------- Bambini -----------
+http://ipsatpro.com:8080/live/farouk/12345/644.ts
+#EXTINF:-1,IT: k2
+http://ipsatpro.com:8080/live/farouk/12345/557.ts
+#EXTINF:-1,IT: Boing
+http://ipsatpro.com:8080/live/farouk/12345/659.ts
+#EXTINF:-1,IT: Super!
+http://ipsatpro.com:8080/live/farouk/12345/558.ts
+#EXTINF:-1,IT: Frisbee
+http://ipsatpro.com:8080/live/farouk/12345/1857.ts
+#EXTINF:-1,IT: Sky Baby
+http://ipsatpro.com:8080/live/farouk/12345/1901.ts
+#EXTINF:-1,IT: Cartoonito
+http://ipsatpro.com:8080/live/farouk/12345/554.ts
+#EXTINF:-1,IT: Sky DeA Kids
+http://ipsatpro.com:8080/live/farouk/12345/1900.ts
+#EXTINF:-1,IT: Disney Junior
+http://ipsatpro.com:8080/live/farouk/12345/617.ts
+#EXTINF:-1,IT: Disney Channel
+http://ipsatpro.com:8080/live/farouk/12345/616.ts
+#EXTINF:-1,IT: Sky Boomerang
+http://ipsatpro.com:8080/live/farouk/12345/1898.ts
+#EXTINF:-1,IT: Sky DeA Junior
+http://ipsatpro.com:8080/live/farouk/12345/1899.ts
+#EXTINF:-1,IT: Cartoon Network
+http://ipsatpro.com:8080/live/farouk/12345/613.ts
+#EXTINF:-1,--------- Cultura ----------
+http://ipsatpro.com:8080/live/farouk/12345/635.ts
+#EXTINF:-1,IT: Sky TG 24
+http://ipsatpro.com:8080/live/farouk/12345/629.ts
+#EXTINF:-1,IT: Discovery HD
+http://ipsatpro.com:8080/live/farouk/12345/630.ts
+#EXTINF:-1,IT: Discovery Channel +1 HD
+http://ipsatpro.com:8080/live/farouk/12345/568.ts
+#EXTINF:-1,IT: Discovery Sci HD
+http://ipsatpro.com:8080/live/farouk/12345/1858.ts
+#EXTINF:-1,IT: Sky History HD
+http://ipsatpro.com:8080/live/farouk/12345/634.ts
+#EXTINF:-1,IT: National Geo HD
+http://ipsatpro.com:8080/live/farouk/12345/633.ts
+#EXTINF:-1,IT: National Geographic +1 HD
+http://ipsatpro.com:8080/live/farouk/12345/567.ts
+#EXTINF:-1,IT: NatGeo Wild HD
+http://ipsatpro.com:8080/live/farouk/12345/632.ts
+#EXTINF:-1,IT: NatGeo People HD
+http://ipsatpro.com:8080/live/farouk/12345/631.ts
+#EXTINF:-1,IT: Sky Animal Planet
+http://ipsatpro.com:8080/live/farouk/12345/604.ts
+#EXTINF:-1,IT: Ci crime investigation
+http://ipsatpro.com:8080/live/farouk/12345/566.ts
+#EXTINF:-1,IT: Pescare Cacciare TV
+http://ipsatpro.com:8080/live/farouk/12345/1867.ts
+#EXTINF:-1,----MwdiaEst Premium ----
+http://ipsatpro.com:8080/live/farouk/12345/628.ts
+#EXTINF:-1,IT: Premium Cinema HD
+http://ipsatpro.com:8080/live/farouk/12345/627.ts
+#EXTINF:-1,IT: Premium Cinema 2 HD
+http://ipsatpro.com:8080/live/farouk/12345/609.ts
+#EXTINF:-1,IT: Premium Cinema +24
+http://ipsatpro.com:8080/live/farouk/12345/612.ts
+#EXTINF:-1,IT: Premium Crime
+http://ipsatpro.com:8080/live/farouk/12345/621.ts
+#EXTINF:-1,IT: Premium Crime +24
+http://ipsatpro.com:8080/live/farouk/12345/611.ts
+#EXTINF:-1,IT: Premium Action HD
+http://ipsatpro.com:8080/live/farouk/12345/626.ts
+#EXTINF:-1,IT: Premium Action +24 HD
+http://ipsatpro.com:8080/live/farouk/12345/618.ts
+#EXTINF:-1,IT: Premium Stories
+http://ipsatpro.com:8080/live/farouk/12345/625.ts
+#EXTINF:-1,IT: Premium Stories +24
+http://ipsatpro.com:8080/live/farouk/12345/614.ts
+#EXTINF:-1,IT: Premium Energy
+http://ipsatpro.com:8080/live/farouk/12345/623.ts
+#EXTINF:-1,IT: Premium Energy +24
+http://ipsatpro.com:8080/live/farouk/12345/1872.ts
+#EXTINF:-1,IT: Premium Joy
+http://ipsatpro.com:8080/live/farouk/12345/624.ts
+#EXTINF:-1,IT: Premium Comedy
+http://ipsatpro.com:8080/live/farouk/12345/620.ts
+#EXTINF:-1,IT: Premium Emotion
+http://ipsatpro.com:8080/live/farouk/12345/622.ts
+#EXTINF:-1,IT: Premium Studio Universal
+http://ipsatpro.com:8080/live/farouk/12345/619.ts
+#EXTINF:-1,IT: Premium EuroSport 1 HD
+http://ipsatpro.com:8080/live/farouk/12345/608.ts
+#EXTINF:-1,IT: Premium EuroSport 2 HD
+http://ipsatpro.com:8080/live/farouk/12345/610.ts
+#EXTINF:-1,---------- Primrafila ---------
+http://ipsatpro.com:8080/live/farouk/12345/602.ts
+#EXTINF:-1,IT: Sky Prima fila 1 HD
+http://ipsatpro.com:8080/live/farouk/12345/601.ts
+#EXTINF:-1,IT: Sky Prima fila 2 HD
+http://ipsatpro.com:8080/live/farouk/12345/600.ts
+#EXTINF:-1,IT: Sky Prima fila 3 HD
+http://ipsatpro.com:8080/live/farouk/12345/599.ts
+#EXTINF:-1,IT: Sky Prima fila 4 HD
+http://ipsatpro.com:8080/live/farouk/12345/598.ts
+#EXTINF:-1,IT: Sky Prima fila 5 HD
+http://ipsatpro.com:8080/live/farouk/12345/597.ts
+#EXTINF:-1,IT: Sky Prima fila 6 HD
+http://ipsatpro.com:8080/live/farouk/12345/596.ts
+#EXTINF:-1,IT: Sky Prima fila 7 HD
+http://ipsatpro.com:8080/live/farouk/12345/595.ts
+#EXTINF:-1,IT: Sky Prima fila 8 HD
+http://ipsatpro.com:8080/live/farouk/12345/594.ts
+#EXTINF:-1,IT: Sky Prima fila 9 HD
+http://ipsatpro.com:8080/live/farouk/12345/593.ts
+#EXTINF:-1,IT: Sky Prima fila 10 HD
+http://ipsatpro.com:8080/live/farouk/12345/592.ts
+#EXTINF:-1,IT: Sky Prima fila 11 HD
+http://ipsatpro.com:8080/live/farouk/12345/591.ts
+#EXTINF:-1,IT: Sky Prima fila 12 HD
+http://ipsatpro.com:8080/live/farouk/12345/590.ts
+#EXTINF:-1,IT: Sky Prima fila 13 HD
+http://ipsatpro.com:8080/live/farouk/12345/589.ts
+#EXTINF:-1,IT: Sky Prima fila 14 HD
+http://ipsatpro.com:8080/live/farouk/12345/588.ts
+#EXTINF:-1,IT: Sky Prima fila 15 HD
+http://ipsatpro.com:8080/live/farouk/12345/587.ts
+#EXTINF:-1,IT: Sky Prima Fila WWE HD
+http://ipsatpro.com:8080/live/farouk/12345/586.ts
